@@ -1,0 +1,27 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+
+  background-color: #17add5;
+  width: 200px;
+  margin: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 25px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.20s ease-out;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
+
+h2 {
+  font-family: "Comic Sans MS";
+}
+p {
+  font-family: Calibri;
+}
