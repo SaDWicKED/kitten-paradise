@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kitten-paradise/static/css/main.7a2224b1.chunk.css",
-    "main.js": "/kitten-paradise/static/js/main.31219f56.chunk.js",
-    "main.js.map": "/kitten-paradise/static/js/main.31219f56.chunk.js.map",
+    "main.js": "/kitten-paradise/static/js/main.3ec0a795.chunk.js",
+    "main.js.map": "/kitten-paradise/static/js/main.3ec0a795.chunk.js.map",
     "runtime-main.js": "/kitten-paradise/static/js/runtime-main.0515a366.js",
     "runtime-main.js.map": "/kitten-paradise/static/js/runtime-main.0515a366.js.map",
     "static/js/2.f720910e.chunk.js": "/kitten-paradise/static/js/2.f720910e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0515a366.js",
     "static/js/2.f720910e.chunk.js",
     "static/css/main.7a2224b1.chunk.css",
-    "static/js/main.31219f56.chunk.js"
+    "static/js/main.3ec0a795.chunk.js"
   ]
 }
